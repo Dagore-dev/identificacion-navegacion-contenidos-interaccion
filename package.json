@@ -1,0 +1,24 @@
+{
+  "name": "identificacion-navegacion-contenidos-interaccion",
+  "version": "1.0.0",
+  "description": "Trabajo para la asignatura de Diseño de interfaces web (DAW2). Análisis de los distintos tipos de elementos que integra una interfaz analizando tres sitios web distintos:",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx marp --output=dist --input-dir=src --allow-local-files",
+    "build-pdf": "npx marp --pdf --output=dist --input-dir=src --allow-local-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dagore-dev/identificacion-navegacion-contenidos-interaccion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dagore-dev/identificacion-navegacion-contenidos-interaccion/issues"
+  },
+  "homepage": "https://github.com/Dagore-dev/identificacion-navegacion-contenidos-interaccion#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.2.0"
+  }
+}
