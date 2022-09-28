@@ -63,3 +63,37 @@ Todas las vistas del sitio web de Typescript comparten una **barra de búsqueda*
 ![Imagen del playground de Typescript incorporado en la propia web](/assets/images/typescript-playground.png)
 
 El elemento sobre el que pesa la mayor capacidad de interacción en esta web es el **playground**. Aquí podemos **escribir y compilar nuestro código Typescript** con las comodidades de un entorno basado en Monaco IDE: **syntax highlighting, detección de errores y auto-completado**. Incluso hay **distintos ejemplos** de código por la web con un **botón que abre en una pestaña nueva el playground** con el ejemplo cargado.
+
+---
+
+# Web de Midudev: Identificación
+
+![bg right fit](/assets/images/midudev-front.png)
+
+Esta web personal opta por un **diseño mínimo** y lo único que nos habla de a quién representa este sitio es el **logo y nombre en la parte superior izquierda** y algunas fotografías del propio Miguel en los últimos videos. Sí que se puede observar que los artículos llevan asociados una imagen con la tecnología que tratan o una fotografía de Miguel cuando es un tema transversal.
+
+---
+
+# Web de Midudev: Navegación
+
+![bg left fit](/assets/images/midudev-front.png)
+
+Respecto a la navegación prácticamente **todo el contenido** de la página principal **son enlaces** hacia vistas con contenido o enlaces externos. Se puede destacar el link "artículos anteriores" debajo de la sección "Últimos artículos", junto a este aparecerá un "artículos más recientes" si navegamos usando este link.
+
+---
+
+# Web de Midudev: Contenido
+
+![bg right fit](/assets/images/midudev-article-content.png)
+
+El contenido de la web se limita casi exclusivamente a **artículos escritos** y no hay nada especialmente reseñable sobre su diseño. Toda la atención e interés reside en el contenido del artículo.
+
+---
+
+# Web de Midudev: Interacción
+
+![bg left fit](/assets/images/midudev-front.png)
+
+Esta web **no es muy interactiva**, se trata simplemente de un lugar donde consumir contenido sobre desarrollo `frontend` creado por un profesional. La interacción solo existe en la **barra de búsqueda** y el botón de la anterior captura recomendando **compartir el artículo**.
+
+---
