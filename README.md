@@ -4,4 +4,4 @@ Trabajo para la asignatura de Diseño de interfaces web (DAW2). Análisis de los
 
 - [Typescript](https://www.typescriptlang.org/)
 - [La página de Miguel Ángel Durán (midudev)](https://midu.dev/)  
-- [Codesignal](https://codesignal.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/)

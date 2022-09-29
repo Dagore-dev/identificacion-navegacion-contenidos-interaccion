@@ -14,7 +14,7 @@ marp: true
 
 - Sitio oficial de Typescript
 - Web de Miguel Ángel Durán
-- CodeSignal
+- freeCodeCamp
 
 ---
 
@@ -97,3 +97,63 @@ El contenido de la web se limita casi exclusivamente a **artículos escritos** y
 Esta web **no es muy interactiva**, se trata simplemente de un lugar donde consumir contenido sobre desarrollo `frontend` creado por un profesional. La interacción solo existe en la **barra de búsqueda** y el botón de la anterior captura recomendando **compartir el artículo**.
 
 ---
+
+# freeCodeCamp: Identificación
+
+![Página principal de freeCodeCamp](/assets/images/freecodecamp-front.png)
+
+---
+
+# freeCodeCamp: Identificación
+
+El nombre y logo se encuentran en la parte superior y es común a todas las vistas, además se muestran los logos de empresas importantes donde trabajan antiguos estudiantes. La barra de navegación presenta el color corporativo de freeCodeCamp.
+
+---
+
+# freeCodeCamp: Navegación
+
+![bg fit right](/assets/images/freecodecamp-front.png)
+
+La web de freeCodeCamp no tiene navegación al uso y casi todos los elementos que se utilizan para acceder al contenido son de interacción.
+
+---
+
+# freeCodeCamp: Contenido
+
+En freeCodeCamp se pueden diferenciar tres tipos de elementos con contenido: Los resultados de búsqueda, los artículos y los cursos online. En estos últimos además se distinguirán dos tipos de elementos.
+
+---
+
+# freeCodeCamp: Contenido
+
+![bg fit right](/assets/images/freecodecamp-search.png)
+
+Esto es un ejemplo de los resultado de búsqueda para la palabra `git`.
+
+---
+
+# freeCodeCamp: Contenido
+
+![bg fit left](/assets/images/freecodecamp-front.png)
+
+Aquí podemos ver una clásica vista de artículo.
+
+---
+
+# freeCodeCamp: Contenido
+
+![bg fit right](/assets/images/freecodecamp-course.png)
+
+Este sería un ejemplo del contenido de uno de los cursos online de la plataforma.
+
+---
+
+# freeCodeCamp: Interactividad
+
+Además de la barra de búsqueda la web tiene cursos interactivos dentro del sitio web.
+
+![](/assets/images/freecodecamp-preview.png)
+
+---
+
+# Gracias por su atención
